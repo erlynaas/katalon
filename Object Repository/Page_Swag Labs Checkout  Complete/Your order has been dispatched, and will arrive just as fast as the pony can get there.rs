@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Your order has been dispatched, and will arrive just as fast as the pony can get there</name>
+   <tag></tag>
+   <elementGuidId>87fafde9-3d41-42f0-963c-581e5b253c18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.complete-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_complete_container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>317acf85-6ba8-441c-9291-ff4320a62c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>complete-text</value>
+      <webElementGuid>d4e0d896-0fd7-475e-87ab-21ed436792a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your order has been dispatched, and will arrive just as fast as the pony can get there!</value>
+      <webElementGuid>d23b833d-8f5b-4d2c-b944-23526ebd3b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_complete_container&quot;)/div[@class=&quot;complete-text&quot;]</value>
+      <webElementGuid>4b557a57-51cc-4fe3-b47a-fc46b963904d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_complete_container']/div</value>
+      <webElementGuid>ac282552-1826-4a9f-a3fb-783ec005d3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THANK YOU FOR YOUR ORDER'])[1]/following::div[1]</value>
+      <webElementGuid>205732a5-23ba-4e02-85e9-39d8473368aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Complete!'])[1]/following::div[2]</value>
+      <webElementGuid>8a9e3d64-a20d-4fe6-ba3b-9eed1e092d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back Home'])[1]/preceding::div[1]</value>
+      <webElementGuid>da23f0ce-a520-4f38-b4f9-570d7c60ef40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[1]</value>
+      <webElementGuid>e9b42a09-bfd1-4d07-9956-cc87e1e799ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!']/parent::*</value>
+      <webElementGuid>c3923697-f579-478f-a6d8-a7284a99657a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>35f0f27a-8f63-4f0c-a40f-40fc0b4470d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!' or . = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!')]</value>
+      <webElementGuid>10cf19c6-f16d-4637-b025-bc17cd85a6e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
